@@ -11,6 +11,7 @@
 3. Run the script  
 `bash sed-yamnet-jetson-nano/install-deps.sh`
 4. Reboot Jetson Nano
+5. Repeat 3 and 4
 
 ## Run Inference
 1. SSH in Jetson Nano
