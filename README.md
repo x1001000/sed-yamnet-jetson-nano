@@ -8,11 +8,11 @@
 1. SSH in your Jetson Nano
 2. Clone this repo  
 `git clone https://github.com/x1001000/sed-yamnet-jetson-nano`
-3. Run the script
+3. Run the script  
 `bash sed-yamnet-jetson-nano/install-deps.sh`
 4. Reboot your Jetson Nano
 
 ## Run Inference
 1. SSH in your Jetson Nano
-2. Run the script
+2. Run the script  
 `python3 sed.py`
