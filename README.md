@@ -16,4 +16,4 @@
 1. SSH in Jetson Nano
 2. Plug in USB microphone
 3. Run the script  
-`python3 sed-yamnet-jetson-nano/sed.py`
+`cd && cd sed-yamnet-jetson-nano && python3 SED.py`
