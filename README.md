@@ -3,7 +3,7 @@
 ## Prepare Jetson Nano
 1. [Write Image to the microSD Card](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
 2. [Setup and First Boot](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup)
-3. Check IP and detach KVM(keyboard/monitor/mouse)
+3. Check IP and detach KVM (keyboard/monitor/mouse)
 
 ## Install Dependencies
 1. SSH in Jetson Nano
@@ -18,3 +18,4 @@
 2. Plug in USB microphone
 3. Run the script  
 `cd && cd sed-yamnet-jetson-nano && python3 SED.py`
+4. Unplug USB microphone when reboot
