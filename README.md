@@ -15,7 +15,7 @@
 
 ## Run Inference
 1. SSH in Jetson Nano
-2. Plug in USB microphone
-3. Run the script  
+2. Run the script  
 `cd && cd sed-yamnet-jetson-nano && python3 SED.py`
+3. Plug in USB microphone NOW
 4. Unplug USB microphone when reboot
